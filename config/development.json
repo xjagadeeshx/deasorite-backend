@@ -1,0 +1,21 @@
+{
+	"encryption": {
+		"key": "v5uU3$c?82*=AzA5",
+		"realKey": "!$DEASRIOT#.N^MATHANMS0*7wv3nhe.$"
+	},
+	"secrete": {
+		"issuer": "deasriot",
+		"domain": "deasriot.co.in",
+		"key": " --$_VM?LLx3XK95ZJ",
+		"expiry": "1d"
+	},
+	"site": {
+		"url": "http://localhost:5000",
+		"version": "v1",
+		"hmtLink": 2
+	},
+	"activation": {
+		"expiryTime": 1800,
+		"timeZone": "UTC"
+	}
+}

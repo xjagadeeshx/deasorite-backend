@@ -1,0 +1,43 @@
+{
+  "name": "deasriot-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "authenticator": "^1.1.5",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "branca": "^0.3.0",
+    "compression": "^1.7.4",
+    "config": "^3.2.2",
+    "cors": "^2.8.5",
+    "cross-fetch": "^3.0.6",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fs": "0.0.1-security",
+    "helmet": "^3.21.1",
+    "hi-base32": "^0.5.0",
+    "i18n-nodejs": "^3.0.0",
+    "ioredis": "^4.14.1",
+    "joi": "^17.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.10",
+    "mongoose-type-url": "^1.0.6",
+    "node-xls": "^0.0.8",
+    "node-xlsx": "^0.16.1",
+    "nodemon": "^2.0.7",
+    "oracledb": "^5.2.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.2.1",
+    "yargs-parser": "^13.1.0"
+  }
+}
